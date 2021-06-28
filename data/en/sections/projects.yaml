@@ -1,0 +1,69 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+
+buttons:
+- name: All
+  filter: "all"
+#- name: Professional
+#  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+  
+# your projects
+projects:
+- name: Fake Job Post Detection Using Machine Learning
+  logo: images/sections/projects/ml.png
+  #role: Contributor
+  timeline: "April 2021"
+  #repo: https://github.com/kubernetes/kubernetes
+  url: "files/ML_Report.pdf"
+  summary: Designing various classification models such as logistic regression, One Class SVM, Random Forest Classifier along with tackling imbalanced dataset by ensemble method and evaluating them.
+  tags: ["Classification Models", "Fake/Real","academic"]
+  
+  
+- name: SMU SeatFinder (IoT)
+  logo: images/sections/projects/iot.png
+  #role: Contributor
+  timeline: "April 2021"
+  #repo: https://github.com/kubernetes/kubernetes
+  url: "https://sravanil-2020.medium.com/draft-smu-seatfinder-finding-you-seats-saving-us-time-3bf690ebf3ac"
+  summary: Solution aims to provide a more pleasant and safe experience for the user by incorporating an IoT solution, with the growing need due to safe entry measures to limit the number of visitors to the library.
+  tags: ["Iot", "Sensors","Visualizations","academic"]
+  
+- name: Forces and Factors Driving Global Terrorism - Insights for a Safer World
+  logo: images/sections/projects/asar.png
+  #role: Contributor
+  timeline: "November 2020"
+  #repo: https://github.com/kubernetes/kubernetes
+  url: "files/ASAR_Report.pdf"
+  summary: This study aims to reveal objective insights on terrorism and its correlated factors. Analysis in this study consists of two parts- descriptive and inferential statistics.
+  tags: ["Regression", "R Shiny","academic"]
+  
+- name: COE Pricing Model
+  logo: images/sections/projects/excel.png
+  #role: Contributor
+  timeline: "December 2020"
+  #repo: https://github.com/kubernetes/kubernetes
+  url: "files/Excel_Report.pdf"
+  summary: Modelling a time series forecast to predict future COE prices based on supply and demand chain by simulating historical data patterns.
+  tags: ["Spreadsheet","Influence Diagram", "Linear Regression","academic"]
+
+- name: Business Insights in the Indian Restaurant Market
+  logo: images/sections/projects/dal.png
+  #role: Contributor
+  timeline: "November 2020"
+  #repo: https://github.com/kubernetes/kubernetes
+  url: "files/DAL_Report.pdf"
+  summary: This research is explanatory in nature. It aims to provide insights to understand the dining behavior and preferences of people in India by employing interactive data insights and restaurant segmentation through cluster analysis.
+  tags: ["JMP Pro", "IDEA","academic"]

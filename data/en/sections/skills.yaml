@@ -1,0 +1,34 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: AI
+  logo: "/images/sections/skills/ai.png"
+  summary: "Capable of building machine learning and recommender system models."
+
+- name: Programming Languages
+  logo: "/images/sections/skills/programming.png"
+  summary: "`Python`, `R`, `Java` :- Capable of writing scalable, testable, and maintainable code."
+  #url: "https://golang.org/"
+  
+- name: Data Visualization
+  logo: "/images/sections/skills/dataviz.png"
+  summary: "`Tableau`, `R Shiny` :- Experienced in creating interactive dashboards."
+
+- name: SQL
+  logo: "/images/sections/skills/sql.png"
+  summary: "Experienced in quering data from oracle database."
+  
+- name: Tools and Technologies
+  #logo: "/images/sections/skills/cloud.png"
+  summary: "`Microsoft Excel`, `SAS Enterprise Miner`, `JMP Pro`"
+  

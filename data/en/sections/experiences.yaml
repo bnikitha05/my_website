@@ -1,0 +1,41 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Lenovo
+    url: "https://www.lenovo.com/sg/en/"
+    location: Singapore
+    # company overview
+    overview: Lenovo is a widely recognized multinational technology company.
+  positions:
+  - designation: Product Analytics Intern
+    start: May 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Processing data using R
+    - Building time series forecast models
+
+- company:
+    name: Monarch Info Tech Services
+    url: "https://mitsind.com/"
+    location: Singapore
+    overview: A service-based company that extends strategic consulting, end to end ECM and BPM integration services
+  positions:
+  - designation: Software Engineer
+    start: July 2018
+    end: July 2020
+    responsibilities:
+    - Constructively coded software changes and alterations based on the compatibility of programming language with upgraded product
+    - Worked productively with product team to understand the requirements, developed a batch file handling structured data and produced excel files for purpose of analyses
+    - Developed programs to retrieve large sets of data that are further formatted to be written into required file format for analyses purpose
