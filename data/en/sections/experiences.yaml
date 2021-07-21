@@ -23,8 +23,10 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Processing data using R
-    - Building time series forecast models
+    - Building and enhancing machine learning and time series models to forecast sales targeted to assist the coming years production planning
+    - Handling multiple files to extract meaningful data and processing the data to be used for analysis
+    - Automating tasks by developing code to save ~45 minutes of manual work
+
 
 - company:
     name: Monarch Info Tech Services
