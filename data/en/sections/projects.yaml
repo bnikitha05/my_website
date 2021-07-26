@@ -67,3 +67,12 @@ projects:
   url: "files/DAL_Report.pdf"
   summary: This research is explanatory in nature. It aims to provide insights to understand the dining behavior and preferences of people in India by employing interactive data insights and restaurant segmentation through cluster analysis.
   tags: ["JMP Pro", "IDEA","academic"]
+  
+- name: Visual Investigation
+  logo: images/sections/projects/visual.png
+  #role: Contributor
+  timeline: "July 2021"
+  #repo: https://github.com/kubernetes/kubernetes
+  url: "https://vast-challenge.netlify.app/"
+  summary: Solution aims to provide a more pleasant and safe experience for the user by incorporating an IoT solution, with the growing need due to safe entry measures to limit the number of visitors to the library.
+  tags: ["R","Distill Website","Visualizations","VAST Challenge 2021","academic"]
