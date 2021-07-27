@@ -74,5 +74,5 @@ projects:
   timeline: "July 2021"
   #repo: https://github.com/kubernetes/kubernetes
   url: "https://vast-challenge.netlify.app/"
-  summary: Solution aims to provide a more pleasant and safe experience for the user by incorporating an IoT solution, with the growing need due to safe entry measures to limit the number of visitors to the library.
+  summary: This is an visual investigation based on VAST Challenge 2021 - The Kronos Incident Mini Challenge 1.
   tags: ["R","Distill Website","Visualizations","VAST Challenge 2021","academic"]
