@@ -80,7 +80,7 @@ projects:
 - name: Food Recipe Recommendation
   logo: images/sections/projects/rec.png
   #role: Contributor
-  timeline: "August 2021"
+  timeline: "August  2021"
   #repo: https://github.com/kubernetes/kubernetes
   url: "files/Recommender_Systems.pdf"
   summary: To build an application that recommends recipes based on user's preference.
