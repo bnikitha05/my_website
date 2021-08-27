@@ -69,7 +69,7 @@ projects:
   tags: ["JMP Pro", "IDEA","academic"]
   
 - name: Data Processing in R
-  logo: images/sections/projects/visual.png
+  logo: images/sections/projects/r.png
   role: Owner
   timeline: "July 2021"
   #repo: https://github.com/kubernetes/kubernetes
