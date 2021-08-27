@@ -30,8 +30,34 @@ projects:
   url: "files/ML_Report.pdf"
   summary: Designing various classification models such as logistic regression, One Class SVM, Random Forest Classifier along with tackling imbalanced dataset by ensemble method and evaluating them.
   tags: ["Classification Models", "Fake/Real","academic"]
+
+- name: Data Processing in R
+  logo: images/sections/projects/r.png
+  role: Owner
+  timeline: "July 2021"
+  #repo: https://github.com/kubernetes/kubernetes
+  url: "https://vast-challenge.netlify.app/"
+  summary: This website is the documentation of data preparation and static visulazations steps in R based on VAST Challenge 2021 - The Kronos Incident Mini Challenge 1 data.
+  tags: ["R","Distill Website","Data Preparation","Static Visualizations","VAST Challenge 2021","academic"]
   
+- name: Food Recipe Recommendation
+  logo: images/sections/projects/rec.png
+  #role: Contributor
+  timeline: "August  2021"
+  #repo: https://github.com/kubernetes/kubernetes
+  url: "files/Recommender_Systems.pdf"
+  summary: To build an application that recommends recipes based on user's preference.
+  tags: ["Recommender Systems","cornac package","academic"]
   
+- name: Visual Investigation
+  logo: images/sections/projects/visual.png
+  #role: Contributor
+  timeline: "August 2021"
+  #repo: https://github.com/kubernetes/kubernetes
+  url: "https://fuytio.shinyapps.io/VAST2021-T15-Shiny/"
+  summary: This is an visual investigation based on VAST Challenge 2021 - The Kronos Incident Mini Challenge 1.
+  tags: ["R","R Shiny App","Interactive Visualizations","VAST Challenge 2021","academic"]
+    
 - name: SMU SeatFinder (IoT)
   logo: images/sections/projects/iot.png
   #role: Contributor
@@ -67,31 +93,4 @@ projects:
   url: "files/DAL_Report.pdf"
   summary: This research is explanatory in nature. It aims to provide insights to understand the dining behavior and preferences of people in India by employing interactive data insights and restaurant segmentation through cluster analysis.
   tags: ["JMP Pro", "IDEA","academic"]
-  
-- name: Data Processing in R
-  logo: images/sections/projects/r.png
-  role: Owner
-  timeline: "July 2021"
-  #repo: https://github.com/kubernetes/kubernetes
-  url: "https://vast-challenge.netlify.app/"
-  summary: This website is the documentation of data preparation and static visulazations steps in R based on VAST Challenge 2021 - The Kronos Incident Mini Challenge 1 data.
-  tags: ["R","Distill Website","Data Preparation","Static Visualizations","VAST Challenge 2021","academic"]
-  
-- name: Food Recipe Recommendation
-  logo: images/sections/projects/rec.png
-  #role: Contributor
-  timeline: "August  2021"
-  #repo: https://github.com/kubernetes/kubernetes
-  url: "files/Recommender_Systems.pdf"
-  summary: To build an application that recommends recipes based on user's preference.
-  tags: ["Recommender Systems","cornac package","academic"]
-  
-- name: Visual Investigation
-  logo: images/sections/projects/visual.png
-  #role: Contributor
-  timeline: "August 2021"
-  #repo: https://github.com/kubernetes/kubernetes
-  url: "https://fuytio.shinyapps.io/VAST2021-T15-Shiny/"
-  summary: This is an visual investigation based on VAST Challenge 2021 - The Kronos Incident Mini Challenge 1.
-  tags: ["R","R Shiny App","Interactive Visualizations","VAST Challenge 2021","academic"]
   
