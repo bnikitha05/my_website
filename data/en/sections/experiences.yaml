@@ -23,10 +23,12 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Building and enhancing machine learning and time series models to forecast sales targeted to assist the coming years production planning
-    - Handling multiple files to extract meaningful data and processing the data to be used for analysis
-    - Automating tasks by developing code to save ~45 minutes of manual work
-
+    - Executing projects that provide data-driven insights on portfolio optimization of desktops and SMBs for Lenovo globally
+    - Building and enhancing time series models that drive revenue and market share growth by forecasting product sales across different product segments
+    - Transforming data into time series data by processing and cleaning
+    - Visualizing forecasting trends and recalibrating weak forecasting models by introducing regressor data thereby improving accuracy by 10-20%
+    - Spearheading code automation for data pre-processing and forecasting that reduce run time by 60% and improve process efficiency
+    - Collaborating with project teams to improve future interns experience by creating ‘Skill Help Guide’ that explains the common data cleaning practices and time series forecasting analysis used within the product analytics team
 
 - company:
     name: Monarch Info Tech Services
@@ -38,6 +40,9 @@ experiences:
     start: July 2018
     end: July 2020
     responsibilities:
+    - Worked productively with client’s product team to understand the requirements and spearheaded the project development from start to end by meeting all requirements thereby satisfying the client
+    - Conducted product research on licensing requirements and prepared recommendations for clients which resolved issues and prevented delay of 15 days for production
+    - Primary responsibility of conducting code quality checks of junior colleagues’ codes and guiding them on best techniques to follow in programming
+    - Automated business process of data extraction from database and data processing by developing batch files and scheduling control M jobs thereby reducing manual run time of ~45 minutes
     - Constructively coded software changes and alterations based on the compatibility of programming language with upgraded product
-    - Worked productively with product team to understand the requirements, developed a batch file handling structured data and produced excel files for purpose of analyses
-    - Developed programs to retrieve large sets of data that are further formatted to be written into required file format for analyses purpose
+    - Familiarized with unit testing and system integrated testing
