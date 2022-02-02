@@ -23,13 +23,8 @@ experiences:
     end: Nov 2021
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Executing projects that provide data-driven insights on portfolio optimization of desktops and SMBs for Lenovo globally
-    - Building and enhancing time series models that drive revenue and market share growth by forecasting product sales across different product segments
-    - Transforming data into time series data by processing and cleaning
-    - Visualizing forecasting trends and recalibrating weak forecasting models by introducing regressor data thereby improving accuracy by 10-20%
-    - Spearheading code automation for data pre-processing and forecasting that reduce run time by 60% and improve process efficiency
-    - Collaborating with project teams to improve future interns experience by creating ‘Skill Help Guide’ that explains the common data cleaning practices and time series forecasting analysis used within the product analytics team
-
+    - Executed projects that provide data-driven insights on portfolio optimization of desktops and SMBs for Lenovo globally by means of building and enhancing time series models that drive revenue and market share growth by forecasting product sales across different product segments.
+    
 - company:
     name: Monarch Info Tech Services
     url: "https://mitsind.com/"
@@ -40,9 +35,4 @@ experiences:
     start: July 2018
     end: July 2020
     responsibilities:
-    - Worked productively with client’s product team to understand the requirements and spearheaded the project development from start to end by meeting all requirements thereby satisfying the client
-    - Conducted product research on licensing requirements and prepared recommendations for clients which resolved issues and prevented delay of 15 days for production
-    - Primary responsibility of conducting code quality checks of junior colleagues’ codes and guiding them on best techniques to follow in programming
-    - Automated business process of data extraction from database and data processing by developing batch files and scheduling control M jobs thereby reducing manual run time of ~45 minutes
-    - Constructively coded software changes and alterations based on the compatibility of programming language with upgraded product
-    - Familiarized with unit testing and system integrated testing
+    - Worked productively with client’s product team to understand the requirements and spearheaded the project development of java batch files that automate data extraction from databases, cleaning and writing into required file formats.
