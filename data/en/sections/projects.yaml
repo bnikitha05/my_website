@@ -17,11 +17,20 @@ buttons:
 #  filter: "professional"
 - name: Academic
   filter: "academic"
-- name: Hobby
-  filter: "hobby"
+- name: Self Learning
+  filter: "self learning"
   
 # your projects
 projects:
+- name: Loan Deafult Prediction
+  logo: images/sections/projects/visual.png
+  role: Owner
+  timeline: "Jan 2022"
+  repo: https://github.com/bnikitha05/Loan-Default-Prediction
+  #url: "https://fuytio.shinyapps.io/VAST2021-T15-Shiny/"
+  summary: 
+  tags: ["Classification Models","self learning"]
+
 - name: Visual Investigation
   logo: images/sections/projects/visual.png
   #role: Contributor

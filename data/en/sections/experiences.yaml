@@ -11,6 +11,21 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: DBS
+    url: "https://www.dbs.com/about-us/default.page/"
+    location: Singapore
+    # company overview
+    overview: DBS Bank Limited is a Singaporean multinational banking and financial services corporation. It is a leading financial services group in Asia.
+  positions:
+  - designation: Data Analyst
+    start: Mar 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    #end: Nov 2021
+    # give some points about what was your responsibilities at the company.
+    #responsibilities:
+    #- Executed projects that provide data-driven insights on portfolio optimization of desktops and SMBs for Lenovo globally by means of building and enhancing time series models that drive revenue and market share growth by forecasting product sales across different product segments.
+    
+- company:
     name: Lenovo
     url: "https://www.lenovo.com/sg/en/"
     location: Singapore

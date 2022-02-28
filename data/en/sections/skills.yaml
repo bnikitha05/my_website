@@ -11,7 +11,7 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: AI
+- name: Artificial Intelligence
   logo: "/images/sections/skills/ai.png"
   summary: "Capable of building machine learning and recommender system models."
 
