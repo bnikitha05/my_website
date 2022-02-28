@@ -50,4 +50,8 @@ experiences:
     start: July 2018
     end: July 2020
     responsibilities:
+<<<<<<< HEAD
     - Worked productively with client’s product team to understand the requirements and spearheaded the project development of java batch files that automate data extraction from databases, cleaning and writing into required file formats.
+=======
+    - Worked productively with client’s product team to understand the requirements and spearheaded the project development of java batch files that automates data extraction from databases, cleaning and writing into required file formates.
+>>>>>>> eff5060037dc24edc81dec9ad0c862eba645504a
