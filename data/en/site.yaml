@@ -10,5 +10,5 @@ openGraph:
   title: Nikitha's Blog
   type: website
   description: Portfolio and personal blog of Nikitha Banda.
-  image: "images/author/display.jpg"
+  image: /images/author/display.jpg
   #url: https://hugo-toha.github.io
