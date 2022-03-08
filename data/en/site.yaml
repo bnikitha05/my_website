@@ -3,12 +3,11 @@ copyright: © 2021 Copyright.
 
 # Meta description for your site.  This will help the search engines to find your site.
 description: Portfolio and personal blog of Nikitha Banda.
-image: /images/author/display.jpg
 
 # Specify OpenGraph Headers
 openGraph:
   title: Nikitha's Blog
   type: website
   description: Portfolio and personal blog of Nikitha Banda.
-  image: /images/author/display.jpg
+  image: https://www.flickr.com/photos/195136616@N05/shares/1334Gi
   #url: https://hugo-toha.github.io
