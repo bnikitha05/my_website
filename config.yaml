@@ -3,7 +3,6 @@
 languageCode: en-us
 title: "Nikitha's Blog"
 theme: "toha"
-image: https://www.flickr.com/photos/195136616@N05/shares/1334Gi
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
@@ -12,6 +11,11 @@ languages:
     languageName: English
     weight: 1
 
+#<meta name="description" content="_" />
+#<meta name="title" property="og:title" content="_" />
+#<meta property="og:type" content="_" />
+<meta name="image" property="og:image" content="images/author/display.jpg" />
+#<meta name="description" property="og:description" content="_" /><meta name="author" content="_" />
 # Control TOC depth
 markup:
   goldmark:
