@@ -11,11 +11,6 @@ languages:
     languageName: English
     weight: 1
 
-#<meta name="description" content="_" />
-#<meta name="title" property="og:title" content="_" />
-#<meta property="og:type" content="_" />
-<meta name="image" property="og:image" content="images/author/display.jpg" />
-#<meta name="description" property="og:description" content="_" /><meta name="author" content="_" />
 # Control TOC depth
 markup:
   goldmark:
