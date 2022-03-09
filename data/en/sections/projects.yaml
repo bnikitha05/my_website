@@ -36,7 +36,7 @@ projects:
   #role: Contributor
   timeline: "August 2021"
   #repo: https://github.com/kubernetes/kubernetes
-  url: "https://fuytio.shinyapps.io/VAST2021-T15-Shiny/"
+  url: "https://bnikitha05.shinyapps.io/VAST2021-T15-ShinyGit/"
   summary: This is an visual investigation based on VAST Challenge 2021 - The Kronos Incident Mini Challenge 1.
   tags: ["R","R Shiny App","Interactive Visualizations","VAST Challenge 2021","academic"]
 
